@@ -1,3 +1,4 @@
 # This Repository contains testing of various sensor modules 
 
-For any query, don't hesitate to reach out rudranarayansahu.tech@gmail.com
+If you require any further information, please feel free to reach out to me.
+rudranarayansahu.tech@gmail.com
