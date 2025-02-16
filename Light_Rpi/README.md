@@ -78,4 +78,6 @@ This project is open-source and free to use for educational purposes.
 Developed by **Rudranarayan Sahu**
 **Email** - rudranarayansahu.tech@gmail.com
 
+For any queries or contributions, contact **rudranarayansahu.tech@gmail.com** or visit **[GitHub](https://github.com/rudranarayan-01)**.
+
 Feel free to connect ✨✨ Happy Coding..!!
