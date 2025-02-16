@@ -76,4 +76,5 @@ This project is open-source and free to use for educational purposes.
 
 ## Author
 Developed by **Rudranarayan Sahu**
+**Email** - rudranarayansahu.tech@gmail.com
 
