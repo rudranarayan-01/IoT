@@ -138,3 +138,4 @@ Let me know if you need an Arduino script to **process the received gestures**! 
 For any queries or contributions, contact **rudranarayansahu.tech@gmail.com** or visit **[GitHub](https://github.com/rudranarayan-01)**.
 
 Happy Coding✨✨
+Have a nice day ✨✨
